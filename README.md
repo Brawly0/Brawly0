@@ -12,11 +12,14 @@ Computer Science student at **Birzeit University** in Ramallah, Palestine. I bui
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-355570?logo=godotengine&logoColor=white)
 
 ## 🚀 Featured projects
 
 | Project | What it is | Built with |
 |---|---|---|
+| [**AstroPixel: Mission Designer**](https://github.com/omarshobaki-png/Shay-Rafe3-Nasa-Space-App-Challenge) | Pixel-art space mission game built on real NASA numbers for 1 to 4 players: design a mission, fly it and find out if your engineering holds up. Team Shay Rafe3, NASA Space Apps Challenge 2026; I was the top contributor. [Play in browser →](https://omarshobaki-png.github.io/Shay-Rafe3-Nasa-Space-App-Challenge/play/) | Godot · GDScript |
 | [**Mission Control**](https://github.com/Brawly0/mission-control) | Windows desktop workspace for Claude Code and Codex: projects, chats, agents, commands and code review in one place. 28+ releases with auto-update. | TypeScript · React · Electron |
 | [**Pyrothalasa: The Hydrogen Garden**](https://github.com/omarshobaki-png/Pyrothalasa) | Interactive scroll-driven dive into a fictional ocean moon where life runs without sunlight. Team project for a space-science challenge adapted from NASA Space Apps 2024; I was the top contributor. [Live site →](https://omarshobaki-png.github.io/Pyrothalasa/) | JavaScript · HTML · CSS |
 | [**PcsConnector**](https://github.com/Brawly0/PcsConnector) | Turns an Ubuntu laptop into an extended screen for a Windows PC, with encrypted clipboard sync and file transfer. Single static binary per OS. | Go |
