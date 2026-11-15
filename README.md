@@ -28,4 +28,6 @@ Computer Science student at **Birzeit University** in Ramallah, Palestine. I bui
 
 ## 📫 Find me
 
+- LinkedIn: [mohammad-humaidan](https://www.linkedin.com/in/mohammad-humaidan/)
+- Email: [mhmdhmidan05@gmail.com](mailto:mhmdhmidan05@gmail.com)
 - GitHub: [@Brawly0](https://github.com/Brawly0)
